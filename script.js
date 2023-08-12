@@ -1,7 +1,7 @@
 let name = document.getElementById("name");
 let saynameBtn = document.getElementById("sayName");
 let changeBg = document.getElementById("changeBg");
-let Body = document.querySelector("Body");
+let body = document.querySelector("Body");
 
 saynameBtn.addEventListener("click", () => {
     name.innerHTML = "HELLO ITS ME KAN";
