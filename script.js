@@ -3,5 +3,5 @@ let saynameBtn = document.getElementById("sayName");
 let changeBg = document.getElementById("changeBg");
 
 saynameBtn.addEventListener("click", () => {
-    name.innerHTML = "hello";
+    name.innerHTML = "HELLO ITS ME KAN";
 })
