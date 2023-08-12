@@ -8,5 +8,5 @@ saynameBtn.addEventListener("click", () => {
 })
 
 changeBg.addEventListener("click", () => {
-    body.style.backgroundColor = "yellow*;
+    body.style.backgroundColor = "yellow";
 })
