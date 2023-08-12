@@ -4,5 +4,9 @@ h3 {
 }  
 
 h1 {
-  color: purple
+  color: purple;
+}
+
+.small-link {
+  font-size: 14px; /* Adjust the font size as i needed */
 }
