@@ -8,3 +8,12 @@ body {
   background-attachment: fixed;
 }
 
+#backgroundAudio {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1; /* Puts the audio element behind other content */
+  opacity: 0; /* Make the audio element invisible */
+}
+
+
